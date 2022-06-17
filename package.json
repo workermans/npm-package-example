@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/creativedeveloper-net/npm-package-example.git"
+    "url": "https://github.com/workermans/npm-package-example.git"
   },
   "keywords": [
     "npm",
@@ -32,10 +32,6 @@
   ],
   "author": "'Tomasz",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativedeveloper-net/npm-package-example/issues"
-  },
-  "homepage": "https://github.com/creativedeveloper-net/npm-package-example#readme",
   "devDependencies": {
     "babel-cli": "6.18.0",
     "babel-loader": "6.2.10",

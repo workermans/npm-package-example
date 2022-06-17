@@ -10,9 +10,9 @@ This is a simple npm package example based on [How to Write an Open Source JavaS
 ## Configuring npm and creating a package.json
 
 ```
-npm set init-author-name 'Your Name'
-npm set init-author-email 'your.email@yourdomain.com'
-npm set init-author-url 'yourdomain.com'
+npm set init-author-name 'Shahar'
+npm set init-author-email 'shaharCider@cidersecurity.io'
+npm set init-author-url 'https://cidersecurity.io'
 npm set init-license 'MIT'
 npm set save-exact true
 ```
